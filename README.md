@@ -5,3 +5,4 @@
 #commit
 #clones
 #como sobrescrever commits
+#apontar projeto para outro repositorio no github
